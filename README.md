@@ -13,7 +13,7 @@ First, we need to check out the project.
 * Name the Workspace as **jsexercises-may5-2016**, leave all other settings as default and click **Create workspace**.
 * Open `for-loop-exercises.js` in your project workspace.
 
-You will notice that the function `example()` is already created for in `for-loop-exercises.js` and `array-exercises.js`.
+You will notice that the function `example()` is already created in `for-loop-exercises.js` and `array-exercises.js`.
 These example functions will serve as hints on how to complete the rest of the functions.
 
 ## You Do
